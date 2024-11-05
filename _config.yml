@@ -18,21 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: The Rhenerds Webring
+email: what@wedonthave.lol
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  silly
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+url: https://rhenerds-webring.vercel.app/ # replace with your webring's URL, which should end in .netlify.app (no slash afterwards)
+include: [_redirects]
+github_repo_url: https://github.com/Kraafter/rhenerds-webring # replace with your repository's URL, which should begin with https://github.com/ and should also have no slash at the end
+twitter_username: bru
+github_username:  Kraafter
 
 # Exclude from processing.
 # The following items will not be processed, by default.
