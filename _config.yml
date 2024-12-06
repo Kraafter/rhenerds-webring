@@ -21,12 +21,12 @@
 title: The Rhenerds Webring
 email: what@wedonthave.lol
 description: >- # this means to ignore newlines until "baseurl:"
-  silly
+  A personal webring containing sites by members of a small Indonesian furry programmers friend group (along with some non Indonesians and non furs).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ring.nerds.my.id # replace with your webring's URL, which should end in .netlify.app (no slash afterwards)
 include: [_redirects]
 github_repo_url: https://github.com/Kraafter/rhenerds-webring # replace with your repository's URL, which should begin with https://github.com/ and should also have no slash at the end
-twitter_username: bru
+twitter_username: wedonthaveatwitteraswell
 github_username:  Kraafter
 
 # Exclude from processing.
